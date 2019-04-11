@@ -1,0 +1,276 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://isotiles_saturn.png" type="Texture" id=1]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Cube Sky" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 0, 0, 120, 139 )
+
+[node name="Half Sky1" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 0, 417, 120, 139 )
+
+[node name="Half Sky2" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 0, 556, 120, 139 )
+
+[node name="Half Sky3" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 0, 695, 120, 139 )
+
+[node name="Cube Blue" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 120, 0, 120, 139 )
+
+[node name="Half Blue" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 120, 417, 120, 139 )
+
+[node name="Half Blue2" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 120, 556, 120, 139 )
+
+[node name="Half Blue3" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 120, 695, 120, 139 )
+
+[node name="Cube White" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 240, 0, 120, 139 )
+
+[node name="Half White" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 240, 417, 120, 139 )
+
+[node name="Half White2" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 240, 556, 120, 139 )
+
+[node name="Half White3" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 240, 695, 120, 139 )
+
+[node name="Cube Yellow L" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 360, 0, 120, 139 )
+
+[node name="Half Yellow L" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 360, 417, 120, 139 )
+
+[node name="Half Yellow L2" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 360, 556, 120, 139 )
+
+[node name="Half Yellow L3" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 360, 695, 120, 139 )
+
+[node name="Cube Yellow M" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 480, 0, 120, 139 )
+
+[node name="Half Yellow M" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 480, 417, 120, 139 )
+
+[node name="Half Yellow M2" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 480, 556, 120, 139 )
+
+[node name="Half Yellow M3" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 480, 695, 120, 139 )
+
+[node name="Cube Yellow D" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 600, 0, 120, 139 )
+
+[node name="Half Yellow D" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 600, 417, 120, 139 )
+
+[node name="Half Yellow D2" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 600, 556, 120, 139 )
+
+[node name="Half Yellow D3" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 600, 695, 120, 139 )
+
+[node name="Cube Green L" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 720, 0, 120, 139 )
+
+[node name="Half Green L" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 720, 417, 120, 139 )
+
+[node name="Half Green L2" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 720, 556, 120, 139 )
+
+[node name="Half Green L3" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 720, 695, 120, 139 )
+
+[node name="Cube Green D" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 840, 0, 120, 139 )
+
+[node name="Half Green D" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 840, 417, 120, 139 )
+
+[node name="Half Green D2" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 840, 556, 120, 139 )
+
+[node name="Half Green D3" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 840, 695, 120, 139 )
+
+[node name="Cube Pink L" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 960, 0, 120, 139 )
+
+[node name="Half Pink L" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 960, 417, 120, 139 )
+
+[node name="Half Pink L2" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 960, 556, 120, 139 )
+
+[node name="Half Pink L3" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 960, 695, 120, 139 )
+
+[node name="Cube Pink M" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 1080, 0, 120, 139 )
+
+[node name="Half Pink M" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 1080, 417, 120, 139 )
+
+[node name="Half Pink M2" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 1080, 556, 120, 139 )
+
+[node name="Half Pink M3" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 1080, 695, 120, 139 )
+
+[node name="Cube Purple" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 1200, 0, 120, 139 )
+
+[node name="Half Purple" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 1200, 417, 120, 139 )
+
+[node name="Half Purple2" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 1200, 556, 120, 139 )
+
+[node name="Half Purple3" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 1200, 695, 120, 139 )
+
+[node name="Grass01" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 0, 278, 120, 139 )
+
+[node name="Grass02" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 120, 278, 120, 139 )
+
+[node name="Trees01" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 240, 278, 120, 139 )
+
+[node name="Trees02" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 360, 278, 120, 139 )
+
+[node name="Trees03" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 480, 278, 120, 139 )
+
+[node name="Trees 04" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 600, 278, 120, 139 )
+
+[node name="Monument" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 720, 278, 120, 139 )
+
+[node name="Vulcan01" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 840, 278, 120, 139 )
+
+[node name="Vulcan02" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 960, 278, 120, 139 )
+
+[node name="Vulcan03" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+region_enabled = true
+region_rect = Rect2( 1080, 278, 120, 139 )
+
